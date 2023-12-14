@@ -1,0 +1,21 @@
+# 忽略所有IDE或者编辑器的配置文件
+**/.idea/
+**/.vs/
+**/.vscode/
+
+lhy/bin/
+res/
+
+# 忽略所有编译产生的x64以及Debug文件夹
+**/Debug/
+**/x64/
+**/Win32/
+
+# 不能忽略的文件夹
+!lhy/res/
+
+
+# lwj文件夹下的规则，和lhy保持一致，仅lhy->lwj路径修改
+lwj/bin/
+
+!lwj/res/
