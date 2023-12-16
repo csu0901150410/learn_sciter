@@ -18,10 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\sciter-win-main.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-    <ClCompile Include="src\HelloWorld.cpp">
+    <ClCompile Include="src\minimal.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
