@@ -4,6 +4,7 @@
 **/.vscode/
 
 lhy/bin/
+lhy/obj/
 res/
 
 # 忽略所有编译产生的x64以及Debug文件夹

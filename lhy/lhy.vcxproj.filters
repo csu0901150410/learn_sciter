@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\uminimal.cpp">
+    <ClCompile Include="src\ulayered.cpp">
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="src\sciter-win-main.cpp">
